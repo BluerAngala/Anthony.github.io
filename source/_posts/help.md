@@ -78,6 +78,7 @@ updated: 2021-01-20 19:19:14
 ### 一. 直接截图粘贴
 
 > 微信截图,QQ截图.其他各种工具截图 Ctrl+V后,自动上传到阿里云图床(由uniCloud提供),并直接插入文章
+![](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3c98b21f-9e7e-4bcb-9142-940554115122/e60352a6-45ba-41be-af01-44a6083ba306.png)
 
 ### 二. 本地文件拖拽
 

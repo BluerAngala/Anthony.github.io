@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 静态博客在线编辑器
-subtitle: '静态博客在线编辑器,演示站点'
-description: '静态博客在线编辑器,支持hexo,hugo,Jekyll等主流生成器,在线写文章'
+title: chnotes
+subtitle: '个人博客站点'
+description: '法律，博客'
 keywords:
-author: JingTaiBoKe.Com
+author: CH
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://www.jingtaiboke.com
+url:
 root: /
 permalink: :name.html
 permalink_defaults:
